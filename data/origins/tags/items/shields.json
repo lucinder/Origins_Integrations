@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shield",
+    "gateofbabylon:stone_shield",
+    "gateofbabylon:iron_shield",
+    "gateofbabylon:golden_shield",
+    "gateofbabylon:diamond_shield",
+    "gateofbabylon:netherite_shield",
+    "artifacts:umbrella",
+    "forbidden_arcanus:obsidian_skull_shield",
+    "immersiveengineering:shield"
+  ]
+}

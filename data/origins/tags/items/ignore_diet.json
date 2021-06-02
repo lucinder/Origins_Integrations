@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:blt",
+    "croptopia:egg_roll",
+    "croptopia:cheeseburger",
+    "croptopia:chicken_and_noodles",
+    "croptopia:chicken_and_rice",
+    "croptopia:fajitas",
+    "croptopia:enchilada",
+    "croptopia:lemon_chicken",
+    "croptopia:fried_chicken",
+    "croptopia:stuffed_poblanos",
+    "croptopia:quesadilla",
+    "croptopia:taco",
+    "croptopia:supreme_pizza",
+    "tacocraft:golden_taco",
+    "minecraft:suspicious_stew"
+  ]
+}
